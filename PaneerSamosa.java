@@ -1,7 +1,8 @@
+package food;
 
 public class PaneerSamosa extends VegItem {
 	{
 		super.name ="Paneer Samosa";
-		super.setQty(qty);
+		super.setPrice(20);;
 	}
 }

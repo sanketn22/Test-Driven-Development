@@ -1,8 +1,9 @@
+package food;
 
 public class Shwarma extends NonVegItem{
 	{
 		super.name = "Shwarma";
-		super.setQty(qty);
+		super.setPrice(60);
 	}
 
 }

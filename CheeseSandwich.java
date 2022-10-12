@@ -1,8 +1,9 @@
+package food;
 
 public class CheeseSandwich extends VegItem {
 	{
 		super.name = "Cheese Sandwich";
-		super.setQty(qty);
+		super.setPrice(25);
 	}
 
 }
